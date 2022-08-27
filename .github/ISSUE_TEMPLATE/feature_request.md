@@ -1,9 +1,9 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Feature Request
+about: Suggest an idea for Krew.
 title: ''
-labels: ''
-assignees: ''
+labels: 'feature'
+assignees: 'DamienVesper'
 
 ---
 
