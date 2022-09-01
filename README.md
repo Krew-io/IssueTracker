@@ -1,7 +1,7 @@
 <h1 align="center">Krew Issue Tracker</h1>
 
 <h1 align="center">
-    <img src="./docs/assets/img/logos/favicon.png" align="center" />
+    <img src="https://raw.githubusercontent.com/Krew-io/Wiki/master/docs/assets/img/logos/favicon.png" align="center" />
 </h1>
 
 <h3 align="center">Centralized repository for all bugs and feature requests for the game.</h3>
